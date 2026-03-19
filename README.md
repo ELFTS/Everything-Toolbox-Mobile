@@ -6,10 +6,10 @@
 <h4 align="center">支持 Android 4.0 以上版本</h4>
 <div align="center">
 
-[![GitHub Release](https://img.shields.io/github/v/release/ELFTS/wwgjx?label=正式版)](https://github.com/ELFTS/wwgjx/releases/latest)
-[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ELFTS/wwgjx/total?label=总下载量)](https://github.com/ELFTS/wwgjx/releases)
-[![Stars](https://img.shields.io/github/stars/ELFTS/wwgjx?style=flat&label=收藏)](https://github.com/ELFTS/wwgjx/stargazers)
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/ELFTS/wwgjx?label=问题)](https://github.com/ELFTS/wwgjx/issues)
+[![GitHub Release](https://img.shields.io/github/v/release/ELFTS/Everything-Toolbox-Mobile?label=正式版)](https://github.com/ELFTS/Everything-Toolbox-Mobile/releases/latest)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ELFTS/Everything-Toolbox-Mobile/total?label=总下载量)](https://github.com/ELFTS/Everything-Toolbox-Mobile/releases)
+[![Stars](https://img.shields.io/github/stars/ELFTS/Everything-Toolbox-Mobile?style=flat&label=收藏)](https://github.com/ELFTS/Everything-Toolbox-Mobile/stargazers)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/ELFTS/Everything-Toolbox-Mobile?label=问题)](https://github.com/ELFTS/Everything-Toolbox-Mobile/issues)
 
 </div>
 
@@ -87,8 +87,8 @@
 支持开发者的最简单方式是点击页面顶部的星标（⭐），当然更希望大家能投喂我们一杯奶茶或者一个煎饼果子的钱，现在的我们还有许多需要为家内外开销的东西所以真的很苦，呜呜呜，公益项目，需要大家的大力支持啊~
 
 <p style="text-align: center;">
-    <a href="https://api.star-history.com/svg?repos=ELFTS/wwgjx&Date">
-        <img alt="start" width=50% src="https://api.star-history.com/svg?repos=ELFTS/wwgjx&Date"/>
+    <a href="https://api.star-history.com/svg?repos=ELFTS/Everything-Toolbox-Mobile&Date">
+        <img alt="start" width=50% src="https://api.star-history.com/svg?repos=ELFTS/Everything-Toolbox-Mobile&Date"/>
     </a>
 </p>
 
