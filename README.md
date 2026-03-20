@@ -1,3 +1,5 @@
+[Windows版](https://github.com/ELFTS/Everything-Toolbox)
+
 <div align="center">
     <img width="150" src="/logo.png"></img>
 </div>
